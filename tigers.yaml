@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 git manager: Kenneth
+=======
+manager: Donald
+>>>>>>> 6f67972 (Edit Tigers)
 
 mambers: 
 - Linda
