@@ -1,6 +1,10 @@
 team: Panthers
 
+<<<<<<< HEAD
 manager: Shirley
+=======
+manager: Raymond
+>>>>>>> f87aa59 (Edit Panthers)
 
 members: 
 - Vilolet
